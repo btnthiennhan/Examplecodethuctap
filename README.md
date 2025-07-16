@@ -74,7 +74,7 @@ Examplecodethuctap/
 
 ├── order-service/      # NestJS backend (Redis Consumer)
 
-├── my\_store.sql/      # CSDL MySQL
+├── my_store.sql/      # CSDL MySQL
 
 
 
