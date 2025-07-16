@@ -22,7 +22,7 @@ Dự án mô phỏng một hệ thống đơn giản sử dụng kiến trúc \*
 
 
 
-\## 🛠️ Yêu cầu cài đặt
+\## Yêu cầu cài đặt
 
 
 
@@ -50,7 +50,7 @@ Trước khi bắt đầu, đảm bảo bạn đã cài đặt các công cụ s
 
 🔗 Redis cho Windows có thể tải tại:  
 
-\[https://github.com/tporadowski/redis/releases](https://github.com/tporadowski/redis/releases)
+(https://github.com/tporadowski/redis/releases)
 
 
 
@@ -268,7 +268,6 @@ Hệ thống đảm bảo \*\*tính ổn định và không mất dữ liệu\*\
 
 Dự án thử nghiệm nhằm thực hành microservice với PHP, NodeJS và Redis. Không đại diện cho code cuối cùng.
 
-```
 
 
 
