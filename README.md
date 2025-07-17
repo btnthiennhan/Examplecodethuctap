@@ -100,7 +100,7 @@ Clone và cài đặt các gói
 
 \# Tải project về
 
-git clone <https://github.com/btnthiennhan/Examplecodethuctap.git>
+git clone https://github.com/btnthiennhan/Examplecodethuctap.git
 
 cd Examplecodethuctap
 
