@@ -87,6 +87,7 @@ Examplecodethuctap/
 
 
 Cài đặt \& Khởi chạy
+Nhập file my_store.sql vào MySQL.
 
 
 
