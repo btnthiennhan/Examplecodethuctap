@@ -73,7 +73,7 @@ Cấu trúc dự án
 
 Examplecodethuctap/
 
-├── testyii/            # PHP (Yii2) frontend
+├── testyii/            # PHP (Yii2)
 
 ├── queue-service/      # Node.js middleware (Redis Producer)
 
@@ -177,7 +177,7 @@ npm run start
 
 
 
-\### 3. Truy cập frontend Yii2
+\### 3. Truy cập testyii
 
 
 
@@ -211,7 +211,7 @@ Tại đây bạn có thể:
 
 
 
-\## ⚙️ Cách hoạt động
+\## Cách hoạt động
 
 
 
